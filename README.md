@@ -4,6 +4,11 @@
 
 > ⚠️ 这不是官方 API，是对豆包网页界面的自动化。没有流式、没有并发、没有 function calling；豆包前端改版就会失效。**自动化访问可能违反服务条款，账号风险自负。** 需要 API 级可靠性时请改用火山方舟。
 
+```bash
+git clone https://github.com/Shawn-SU-1/doubao-web-bridge
+cd doubao-web-bridge
+```
+
 ## 三种用法，按你的环境挑
 
 | 你的环境 | 用哪个 | 依赖 |
